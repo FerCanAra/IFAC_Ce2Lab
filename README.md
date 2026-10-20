@@ -17,7 +17,7 @@ Visit the project [OFFICIAL website](https://arm.ual.es/ce2lab2/#) for more info
   <img src="docs/logo2.png" width="55" alt="LinkedIn Logo" /> 
 </a>
 
-## 📑 Citation
+## 📑 Project Citation
 
 **_Project article_**
 
