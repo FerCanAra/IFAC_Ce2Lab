@@ -30,6 +30,32 @@ Visit the project [OFFICIAL website](https://arm.ual.es/ce2lab2/#) for more info
   year={2026}
 }
 ```
+**_Software citation_**
+  
+```
+@software{c2d_project,
+  author={Ca{\~n}adas-Aranega,Fernando  and Pataro, Igor M.L. and Rodr{\'\i}guez, Enrique and González, José and Muñoz, Manuel and Gil, Juan Diego and Luis Guzm{\'a}n, Jos{\'e}},
+  title   = {Ce2Lab Repository Project},
+  version = {0.0.1},
+  year    = {2026},
+  doi     = {https://doi.org/10.5281/zenodo.23079949},
+  url     = {https://github.com/FerCanAra/Ce2Lab_ball_and_beam/tree/main}
+}
+```
+
+## Ce2Lab - Watt Governor
+
+This repository contains the STL files required to build a simple **Watt Governor demonstrator** for educational use. The objective of the model is to provide a **visual and intuitive demonstration** of how a centrifugal governor works. By rotating the central shaft manually, the user can observe how the rotating masses move outward as the rotational speed increases, causing the central collar to move vertically.
+
+Go to [official site](Watt%20Governor/) for full details on the complete project.
+
+## Ce2Lab - Ball and Beam
+
+The Ball and Beam system is a classic experiment widely used in control engineering to study PID control techniques. The objective of the system is to maintain a ball at a desired position along a beam by adjusting the beam's angle. This is achieved by continuously measuring the ball position and applying a PID control action to a servo motor that tilts the beam.
+
+Go to [official site](Ball%20and%20Beam/) for full details on the complete project.
+
+### 📑 Citation
 
 **_Ball and beam article_**
 
@@ -42,6 +68,15 @@ Visit the project [OFFICIAL website](https://arm.ual.es/ce2lab2/#) for more info
   year={2026}
 }
 ```
+
+## Ce2Lab - Scape Box
+
+The repository contains the STL files and source code for the Scape Box. This information can also be found in the following articles [paper1](https://www.sciencedirect.com/science/article/pii/S2405896324020500) [paper 2](https://riunet.upv.es/entities/publication/dc21669b-1198-4ed1-a857-8e3008be40ff).
+
+Go to [official site](Scape%20Box/) for full details on the complete project.
+
+### 📑 Citation
+
 **_Scape Box article_**
 
 ```
@@ -77,37 +112,6 @@ Visit the project [OFFICIAL website](https://arm.ual.es/ce2lab2/#) for more info
   year={2024}
 }
 ```
-
-**_Software citation_**
-  
-```
-@software{c2d_project,
-  author={Ca{\~n}adas-Aranega,Fernando  and Pataro, Igor M.L. and Rodr{\'\i}guez, Enrique and González, José and Muñoz, Manuel and Gil, Juan Diego and Luis Guzm{\'a}n, Jos{\'e}},
-  title   = {Ce2Lab Repository Project},
-  version = {0.0.1},
-  year    = {2026},
-  doi     = {https://doi.org/10.5281/zenodo.23079949},
-  url     = {https://github.com/FerCanAra/Ce2Lab_ball_and_beam/tree/main}
-}
-```
-
-## Ce2Lab - Watt Governor
-
-This repository contains the STL files required to build a simple **Watt Governor demonstrator** for educational use. The objective of the model is to provide a **visual and intuitive demonstration** of how a centrifugal governor works. By rotating the central shaft manually, the user can observe how the rotating masses move outward as the rotational speed increases, causing the central collar to move vertically.
-
-Go to [official site](Watt%20Governor/) for full details on the complete project.
-
-## Ce2Lab - Ball and Beam
-
-The Ball and Beam system is a classic experiment widely used in control engineering to study PID control techniques. The objective of the system is to maintain a ball at a desired position along a beam by adjusting the beam's angle. This is achieved by continuously measuring the ball position and applying a PID control action to a servo motor that tilts the beam.
-
-Go to [official site](Ball%20and%20Beam/) for full details on the complete project.
-
-## Ce2Lab - Scape Box
-
-The repository contains the STL files and source code for the Scape Box. This information can also be found in the following articles [paper1](https://www.sciencedirect.com/science/article/pii/S2405896324020500) [paper 2](https://riunet.upv.es/entities/publication/dc21669b-1198-4ed1-a857-8e3008be40ff).
-
-Go to [official site](Scape%20Box/) for full details on the complete project.
 
 ## License
 
