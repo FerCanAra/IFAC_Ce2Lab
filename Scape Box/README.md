@@ -46,10 +46,3 @@ El diseño real del primer prototipo se muestra en la Fig. 3.
 
 ![Captura3](https://github.com/FerCanAra/Puzzle-Box/assets/101014613/9abe8fa9-edd5-4b0b-a83f-a1298aad1574)
 
-### Programming
-
-Josueeeeeeee La burra se peeeee
-
-https://github.com/FerCanAra/TEACHING-GAMIFICATION-PROJECT/tree/5e4c68124e2bc81e229dac402bc8d808a689d668/Arduino%20Files
-
-# PID CHALLENGE
