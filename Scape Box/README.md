@@ -2,7 +2,7 @@ Scape Box 📦
 
  It presents the design, development and programming of a puzzle box containing a scape room of questions related to aspects of control engineering. 
 
-<img width="500" height="225" alt="image" src="https://github.com/user-attachments/assets/c9f5e483-e49b-42bc-b111-2bc4c006e6ab" />
+<img width="750" height="375" alt="image" src="https://github.com/user-attachments/assets/c9f5e483-e49b-42bc-b111-2bc4c006e6ab" />
 
 
 <details>
@@ -54,14 +54,10 @@ Total cost: 58.60 €
 
 If you're reusing the code, try connecting everything as shown in the image below:
 
-<img width="500" height="440" alt="image" src="https://github.com/user-attachments/assets/bd706784-f7cc-46aa-829e-f0d4219416d8" />
+<img width="650" height="480" alt="image" src="https://github.com/user-attachments/assets/bd706784-f7cc-46aa-829e-f0d4219416d8" />
 
 <img width="650" height="370" alt="image" src="https://github.com/user-attachments/assets/6090301a-3bb4-4094-89d1-dd58f1dd3f41" />
 
-
 </details>
 
-El diseño real del primer prototipo se muestra en la Fig. 3.
-
-![Captura3](https://github.com/FerCanAra/Puzzle-Box/assets/101014613/9abe8fa9-edd5-4b0b-a83f-a1298aad1574)
 
