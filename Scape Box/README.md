@@ -1,48 +1,65 @@
-# Scape Box 📦
+Scape Box 📦
 
  It presents the design, development and programming of a puzzle box containing a scape room of questions related to aspects of control engineering. 
 
-<img width="1018" height="456" alt="image" src="https://github.com/user-attachments/assets/c9f5e483-e49b-42bc-b111-2bc4c006e6ab" />
- 
-
-### Materials
+<img width="500" height="225" alt="image" src="https://github.com/user-attachments/assets/c9f5e483-e49b-42bc-b111-2bc4c006e6ab" />
 
 
+<details>
+<summary>1. Materials and cost</summary>
 
-<img width="1054" height="884" alt="image" src="https://github.com/user-attachments/assets/bd706784-f7cc-46aa-829e-f0d4219416d8" />
+### 3D printing of parts
 
-<img width="1392" height="741" alt="image" src="https://github.com/user-attachments/assets/6090301a-3bb4-4094-89d1-dd58f1dd3f41" />
+A Prusa MK4 (0.4 mm nozzle) printer was used. The total printing time is: 34h 35 min. Parameters:
+- Layer height: 0.15 mm
+- First layer height: 0.2 mm
+- Infill: 5 %
+- Raft: No
+- Supports: Yes
+- Ironing: 15 mm/s
+
+Printing material:
+
+- PLA 1.75 mm
+- Extruder temperature: 215 °C
+- Bed temperature: 60 °C
+- PLA consumption: 1150.53 g (5%)
+
+### Additional material
+
+Mechanical components:
+- 4 × M4 25cm screw
+- 8 × M4 nuts
+- 12 x Jumper Wire 
+
+Electronic components:
+- 1 × ATMega328P (Microcontroller socket board): 10 €
+- 1 × SG90 motor: 1.5 €
+- 1 × 1000 g of PLA roll: 19 €
+- 1 × Boost Converted 4 €
+- 1 x Batery Samsung 6 €
+- 1 x Keyboard 10 €
+- 1 x TC4056 1.10 €
+- 1 x SPDT Relay 2 €
+- 1 x TFT 2.8' screen 5 €
+
+### Cost per prototype
+
+Total cost: 58.60 €
+
+</details>
+
+<details>
+<summary>2. Assembly</summary>
+
+If you're reusing the code, try connecting everything as shown in the image below:
+
+<img width="500" height="440" alt="image" src="https://github.com/user-attachments/assets/bd706784-f7cc-46aa-829e-f0d4219416d8" />
+
+<img width="650" height="370" alt="image" src="https://github.com/user-attachments/assets/6090301a-3bb4-4094-89d1-dd58f1dd3f41" />
 
 
-
-
-A puzzle box will be made containing all the questions collected in a SD card. The box will be designed in SolidWorks and printed on a Prusa mk3s 3D printer. The material chosen will be:
-
-- PLA 850 Sakata 3D granite 1,75 mm: https://www.impresoras3d.com/producto/pla-850-texture-granito-sakata-3d-175-mm/
-- PLA 850 Sakata 3D black 1,75 mm: https://www.impresoras3d.com/producto/pla-850-sakata-3d-negro/
-
-To carry out the activity, the following electronic material is purchased:
-
-[Material Gamificación.xlsx](https://github.com/FerCanAra/Puzzle-Box/files/13351546/Material.Gamificacion.xlsx)
-
-### 3D Desing
-
-In the 3D design, the required dimensions were considered to encompass all hardware needs. The result is shown in Fig. 1.
-
-![Captura](https://github.com/FerCanAra/Puzzle-Box/assets/101014613/e5da7301-c664-4731-8f5d-4020083ad0af)
-(Fig. 1: Puzzle-box)
-
-The box has three levels:
-- Level 1: The student will solve theoretical questions related to the subject.
-- Level 2: The student will solve questions related to block diagrams of the subject (Front end 1).
-- Level 3: The student will solve practical questions about each subject (Front Door 2).
-
-Once the student starts the experience, a timer (time to be determined) is started to set a time limit for solving the questions. Initially, the attempts per question will be undetermined, but time will be deducted from the total each time they fail. The student will receive a prize for the side gates (Side gates) upon completion. Fig. 2 shows the puzzle box with the gates open.
-
-![Captura2](https://github.com/FerCanAra/Puzzle-Box/assets/101014613/b36d7442-f59c-48bb-90bd-34124d02d971)
-(Fig. 2: Open puzzle-box)
-
-### Real desing
+</details>
 
 El diseño real del primer prototipo se muestra en la Fig. 3.
 
