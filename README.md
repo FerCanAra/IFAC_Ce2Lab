@@ -42,6 +42,42 @@ Visit the project [OFFICIAL website](https://arm.ual.es/ce2lab2/#) for more info
   year={2026}
 }
 ```
+**_Scape Box article_**
+
+```
+@article{hernandez2026estimulando,
+  title={Estimulando el aprendizaje a trav{\'e}s del juego: Una experiencia gamificada en Ingenier{\'\i}a de Control en la Universidad de Almer{\'\i}a},
+  author={Hern{\'a}ndez, Jos{\'e} Gonz{\'a}lez and Ar{\'a}nega, Fernando Ca{\~n}adas and S{\'a}nchez, {\'A}ngeles Hoyo and Berenguel, Pablo Ot{\'a}lora and Pataro, Igor ML and Gil, Juan D},
+  journal={Revista iberoamericana de autom{\'a}tica e inform{\'a}tica industrial (RIAI)},
+  volume={23},
+  number={1},
+  pages={25--36},
+  year={2026},
+  publisher={Comit{\'e} Espa{\~n}ol de Autonom{\'a}tica (CEA-IFAC)}
+}
+```
+```
+@article{gil2024gamification,
+  title={Gamification in control engineering: An ongoing initiative at the University of Almer{\'\i}a},
+  author={Gil, Juan D and Gonz{\'a}lez-Hern{\'a}ndez, Jos{\'e} and Ca{\~n}adas-Ar{\'a}nega, Fernando and Pataro, Igor ML and Hoyo, {\'A}ngeles and Ot{\'a}lora, Pablo and Rodr{\'\i}guez, Francisco and Guzm{\'a}n, JL and Berenguel, Manuel},
+  journal={IFAC-PapersOnLine},
+  volume={58},
+  number={26},
+  pages={82--87},
+  year={2024},
+  publisher={Elsevier}
+}
+```
+```
+@article{gonzalez2024escape,
+  title={Escape room en Ingenier{\'\i}a de Control: Una aventura gamificada desarrollada en la Universidad de Almer{\'\i}a},
+  author={Gonz{\'a}lez-Hern{\'a}ndez, Jos{\'e} and Ca{\~n}adas-Ar{\'a}nega, Fernando and Hoyo, {\'A}ngeles and Ot{\'a}lora, Pablo and Pataro, Igor and Gil Vergel, Juan Diego},
+  journal={Jornadas de Autom{\'a}tica},
+  volume={45},
+  year={2024}
+}
+```
+
 **_Software citation_**
   
 ```
