@@ -56,9 +56,13 @@ Total cost: 58.60 €
 If you're reusing the code, try connecting everything as shown in the image below:
 
 <img width="650" height="480" alt="image" src="https://github.com/user-attachments/assets/bd706784-f7cc-46aa-829e-f0d4219416d8" />
-
 <img width="650" height="370" alt="image" src="https://github.com/user-attachments/assets/6090301a-3bb4-4094-89d1-dd58f1dd3f41" />
 
 </details>
 
+<details>
+<summary>3. Step-by-step assembly</summary>
 
+<img width="1612" height="900" alt="ScapeBox" src="https://github.com/user-attachments/assets/de069d83-9997-4f55-86f7-76ab73238a5b" />
+
+</details>
