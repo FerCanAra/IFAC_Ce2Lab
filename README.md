@@ -71,7 +71,7 @@ Go to [official site](Ball%20and%20Beam/) for full details on the complete proje
 
 The repository contains the STL files and source code for the Scape Box. This information can also be found in the following articles [paper1](https://www.sciencedirect.com/science/article/pii/S2405896324020500) [paper 2](https://riunet.upv.es/entities/publication/dc21669b-1198-4ed1-a857-8e3008be40ff).
 
-Go to [official site](Scape%20/) for full details on the complete project.
+Go to [official site](Scape%20Box/) for full details on the complete project.
 
 ## License
 
