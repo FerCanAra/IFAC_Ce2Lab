@@ -1,18 +1,20 @@
-# TEACHING GAMIFICATION PROJECT
+# Scape Box 📦
 
-Educational gamification project of the ARM group of the University of Almeria.
+ It presents the design, development and programming of a puzzle box containing a scape room of questions related to aspects of control engineering. 
 
-# PUZZLE-BOX
-
-### Introduction
-
- It presents the design, development and programming of a puzzle box containing a scape room of questions related to aspects of control engineering. The subjects are:
-- Industrial Automation (2nd year of Industrial Electronic Engineering).
-- Computer Control (3rd year of Industrial Electronic Engineering).
-- Industrial Regulation (3rd year of Industrial Electrical Engineering).
-- Industrial Control Techniques (4th year of Industrial Electronic Engineering).
+<img width="1018" height="456" alt="image" src="https://github.com/user-attachments/assets/c9f5e483-e49b-42bc-b111-2bc4c006e6ab" />
+ 
 
 ### Materials
+
+
+
+<img width="1054" height="884" alt="image" src="https://github.com/user-attachments/assets/bd706784-f7cc-46aa-829e-f0d4219416d8" />
+
+<img width="1392" height="741" alt="image" src="https://github.com/user-attachments/assets/6090301a-3bb4-4094-89d1-dd58f1dd3f41" />
+
+
+
 
 A puzzle box will be made containing all the questions collected in a SD card. The box will be designed in SolidWorks and printed on a Prusa mk3s 3D printer. The material chosen will be:
 
