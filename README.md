@@ -4,8 +4,10 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22679881.svg)](https://doi.org/10.5281/zenodo.23079949)
 [![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](LICENSE)
 
-The shortage of physical lab models in university control engineering laboratories is a widely recognised problem at the international level. In response to this challenge, this paper presents CE2Labs (Unlocking the Development and Experiences of Control Education Labs), a teaching innovation project funded by the IFAC Activity Fund and developed by an international team of educators and laboratory engineers from universities in Spain, Sweden, France, Germany, and the United Kingdom. The project proposes the design and construction of low-cost, open-source physical lab models at different levels of complexity, ranging from 3D-printed mechanical devices to Arduino-based and custom electronics solutions, as well as the development of an open-access web platform where educators worldwide can access the materials and share experiences.
+This repository presents the CE2Labs project (Unlocking the Development and Experiences of Control Education Labs), an educational innovation project funded by the IFAC Activities Fund and developed by an international team of professors and lab engineers from universities in Spain, Sweden, France, Germany, and the United Kingdom. The project proposes the design and construction of low-cost, open-source physical lab models with varying levels of complexity—ranging from 3D-printed mechanical devices to custom Arduino-based electronic solutions—as well as the development of an open-access web platform where educators worldwide can access the materials and share their experiences.
 
+
+Translated with DeepL.com (free version)
 <img src="docs/Model_2_1.gif" width="300"><img src="docs/ScapeBox.gif" width="538">
 
 Visit the project [OFFICIAL website](https://arm.ual.es/ce2lab2/#) for more information. This work was carried out within the [Automation, Robotics and Mechatronics Group](https://arm.ual.es/arm-group/) (ARM TEP 197) at the University of Almería (Spain).
